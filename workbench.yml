@@ -1,0 +1,59 @@
+package_name: "Threat Brief Kit"
+package_id: "threat-brief-kit"
+package_version: "v0.2.0"
+schema_version: "workbench-schema-v1"
+release_date: "2026-07-03"
+product_line: "Secure Prompt Workbench"
+stage_contract_version: "stage-contract-v1"
+
+enabled_modes:
+  - chat
+  - folder-reading
+
+stages:
+  - id: "01-report-intake"
+    title: "Report Intake"
+    contract: "stages/01-report-intake/STAGE.md"
+  - id: "02-structured-extraction"
+    title: "Structured Extraction"
+    contract: "stages/02-structured-extraction/STAGE.md"
+  - id: "03-org-relevance"
+    title: "Organization Relevance"
+    contract: "stages/03-org-relevance/STAGE.md"
+  - id: "04-internal-brief"
+    title: "Internal Brief"
+    contract: "stages/04-internal-brief/STAGE.md"
+
+required_files:
+  - "README.md"
+  - "START-HERE.md"
+  - "SAFETY.md"
+  - "WHAT-YOU-WILL-CREATE.md"
+  - "EXAMPLE-OUTPUT.md"
+  - "UPGRADE-PATH.md"
+  - "MANIFEST.md"
+  - "CREDITS.md"
+  - "CHANGELOG.md"
+  - "VERSION"
+  - "OWNERS.md"
+
+sample_inventory:
+  - id: "synthetic-report"
+    provenance: "synthetic"
+    path: "_samples/synthetic/sample-threat-report.md"
+  - id: "synthetic-org-context"
+    provenance: "synthetic"
+    path: "_samples/synthetic/sample-organization-context.md"
+  - id: "worked-example"
+    provenance: "synthetic"
+    path: "EXAMPLE-OUTPUT.md"
+
+final_output: "outputs/internal-threat-brief.md"
+
+ignored_paths:
+  - "outputs/"
+  - ".git/"
+
+credits_file: "CREDITS.md"
+changelog_file: "CHANGELOG.md"
+validation_status: "draft"
