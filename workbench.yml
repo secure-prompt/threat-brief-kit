@@ -1,8 +1,8 @@
 package_name: "Threat Brief Kit"
 package_id: "threat-brief-kit"
-package_version: "v0.2.0"
+package_version: "v0.2.1"
 schema_version: "workbench-schema-v1"
-release_date: "2026-07-03"
+release_date: "2026-07-04"
 product_line: "Secure Prompt Workbench"
 stage_contract_version: "stage-contract-v1"
 
@@ -24,6 +24,7 @@ stages:
     title: "Internal Brief"
     contract: "stages/04-internal-brief/STAGE.md"
 
+# Required files that ship inside the customer package (OWNERS.md is builder-only and intentionally excluded).
 required_files:
   - "README.md"
   - "START-HERE.md"
@@ -32,10 +33,10 @@ required_files:
   - "EXAMPLE-OUTPUT.md"
   - "UPGRADE-PATH.md"
   - "MANIFEST.md"
+  - "LICENSE.md"
   - "CREDITS.md"
   - "CHANGELOG.md"
   - "VERSION"
-  - "OWNERS.md"
 
 sample_inventory:
   - id: "synthetic-report"
@@ -55,5 +56,6 @@ ignored_paths:
   - ".git/"
 
 credits_file: "CREDITS.md"
+license_file: "LICENSE.md"
 changelog_file: "CHANGELOG.md"
-validation_status: "draft"
+validation_status: "released"   # dogfood proof met (see CHANGELOG v0.2.0); shipping as v0.2.1

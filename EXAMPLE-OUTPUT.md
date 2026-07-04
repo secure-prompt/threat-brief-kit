@@ -75,4 +75,4 @@ applications that aren't protected by it.
 ---
 
 *Produced with the Secure Prompt Workbench — Threat Brief Kit. Indicators above are synthetic and for
-demonstration only.*
+demonstration only. Get the free kit and more at [newsletter.secureprompt.io](https://newsletter.secureprompt.io).*

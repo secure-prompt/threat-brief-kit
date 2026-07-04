@@ -3,6 +3,26 @@
 All notable changes to this product. Entries are grouped by type. Versioning: patch = copy/sample fixes,
 minor = non-breaking additions, major = renamed stages / changed contracts / changed outputs.
 
+## v0.2.1 — 2026-07-04
+
+Launch-readiness pass from an external review of the packaged kit.
+
+**Product changes**
+- Added **funnel links** throughout (README header + footer, UPGRADE-PATH, EXAMPLE-OUTPUT) so anyone who
+  finds or is forwarded the kit has a path back to Secure Prompt. Canonical: https://newsletter.secureprompt.io
+- Added **`LICENSE.md`** (Secure Prompt Free Use License): free to use, share, and adapt for internal use;
+  no resale; keep attribution. Resolves the "no stated terms" gap.
+- Refined copy: dropped long time-claims ("~20–30 min") in favor of "in minutes"; added the
+  share-with-your-team-and-defend-to-your-boss and consistency benefits.
+
+**Integrity fixes**
+- Removed `OWNERS.md` from `workbench.yml` `required_files` — it is builder-only and not shipped, so a
+  folder-reading agent validating the manifest no longer hits a missing required file.
+- Flipped `validation_status` from `draft` to `released` to match the "pre-launch proof met" state.
+
+**Breaking changes**
+- None (additive).
+
 ## v0.2.0 — 2026-07-03
 
 Improvements from the first real dogfood run (CISA AA24-109A / Akira). See

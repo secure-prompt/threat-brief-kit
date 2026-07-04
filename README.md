@@ -6,6 +6,9 @@ code, no new subscription. Just a folder, your AI, and a defensible result.
 
 Part of the **Secure Prompt Workbench** product line.
 
+> **From Secure Prompt** — field intelligence for security teams putting AI to work. New kits, updates, and
+> the paid RFI Workbench land here first: **https://newsletter.secureprompt.io**
+
 ## Who it is for
 
 CTI analysts, SOC analysts, and security generalists who need to read a vendor report or advisory and
@@ -65,11 +68,17 @@ Each stage has a `STAGE.md` (the instruction + the prompt to paste), an `input-t
 ## How to update
 
 This kit is versioned on GitHub. The current version is in [`VERSION`](VERSION); changes are listed in
-[`CHANGELOG.md`](CHANGELOG.md). If you received this through Secure Prompt, the same link always points
-to the latest release — re-download anytime.
+[`CHANGELOG.md`](CHANGELOG.md). Get the latest release anytime — and subscribe for updates — at
+**[newsletter.secureprompt.io](https://newsletter.secureprompt.io)**.
 
 ## License and attribution
 
-See [`CREDITS.md`](CREDITS.md). This kit's folder-orchestration approach is inspired by the Interpreted
-Context Methodology / Model Workspace Protocol (MIT-licensed). Indicators and the example report are
-synthetic — see [`_samples/SAMPLES-README.md`](_samples/SAMPLES-README.md).
+See [`LICENSE.md`](LICENSE.md) for terms (free to use and share — don't resell) and [`CREDITS.md`](CREDITS.md)
+for attribution. This kit's folder-orchestration approach is inspired by the Interpreted Context Methodology /
+Model Workspace Protocol (MIT-licensed). Indicators and the example report are synthetic — see
+[`_samples/SAMPLES-README.md`](_samples/SAMPLES-README.md).
+
+---
+
+_Built by [Secure Prompt](https://newsletter.secureprompt.io) — field intelligence for the AI threat frontier.
+If this kit helped, forward it to a colleague and [subscribe](https://newsletter.secureprompt.io)._
