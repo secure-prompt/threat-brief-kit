@@ -21,6 +21,12 @@ confidence and uncertainty notes, and recommended follow-up — plus an optional
 See [`WHAT-YOU-WILL-CREATE.md`](WHAT-YOU-WILL-CREATE.md) for the outcome and [`EXAMPLE-OUTPUT.md`](EXAMPLE-OUTPUT.md)
 for a complete worked example.
 
+**Why it helps:**
+
+- **Fast** — a finished brief in minutes, not the usual hour of cleanup.
+- **Consistent** — the same structure, sourcing, and confidence language every time, so your reporting stays consistent across analysts and across reports.
+- **Shareable up the chain** — sourced and calibrated, so you can hand it to your team and defend it to your manager.
+
 ## How to start
 
 Open [`START-HERE.md`](START-HERE.md). It routes you into **Chat Mode** (copy/paste into any chat AI) or

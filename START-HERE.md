@@ -1,8 +1,8 @@
 # Start Here — Threat Brief Kit
 
 Welcome. This kit turns a public threat report into a clean, sourced, one-page internal brief —
-using the AI you already have. You do the judging; the AI does the drafting. It takes about
-20–30 minutes the first time, less after that.
+using the AI you already have. You do the judging; the AI does the drafting. It's quick — a few
+minutes, and faster every time.
 
 **You will move through four stages:**
 
@@ -62,7 +62,7 @@ Folder-Reading Mode is faster (less copy/paste). It is **not** required and give
 
 - A **public** threat report you want to brief (vendor blog, ISAC bulletin, advisory). A ready-to-try
   synthetic example lives in `_samples/synthetic/sample-threat-report.md` if you just want to see how it works.
-- About 20–30 minutes.
+- A few minutes.
 - Your AI tool of choice.
 
 ## See what "done" looks like first (recommended)

@@ -1,8 +1,9 @@
 # What You Will Create
 
-In about 20–30 minutes, starting from a public threat report, you will produce a **one-page internal
-threat brief** that is sourced, structured, relevance-assessed, and honestly hedged — the kind of brief
-that makes you look like a senior analyst and that your boss can actually trust.
+Starting from a public threat report, you will produce — in minutes — a **one-page internal
+threat brief** that is sourced, structured, relevance-assessed, and honestly hedged. It's the kind of
+brief you can share with your team and defend to your manager, and it comes out consistent in
+structure, sourcing, and confidence language every single time.
 
 ## The finished brief contains
 
@@ -16,8 +17,9 @@ that makes you look like a senior analyst and that your boss can actually trust.
 
 ## Why it's better than pasting the report into a chatbot
 
-- It's **repeatable** — the same disciplined steps every time, not a fresh improvisation.
-- It's **sourced and defensible** — every claim traces back to a dated report; uncertainty is preserved.
+- It's **fast** — a finished brief in minutes, not the usual hour of cleanup.
+- It's **consistent** — the same structure, sourcing, and confidence language every time, so your reporting stays consistent across analysts, across reports, and over time.
+- It's **shareable up the chain** — sourced and calibrated, so you can hand it to your team and defend it to your manager.
 - It **won't invent indicators** — the workflow forces "mark it absent" over "make it up."
 - It's **safe** — relevance is assessed from generic context, so nothing sensitive goes to a cloud AI.
 
