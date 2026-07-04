@@ -6,7 +6,7 @@ code, no new subscription. Just a folder, your AI, and a defensible result.
 
 Part of the **Secure Prompt Workbench** product line.
 
-> **From Secure Prompt** — field intelligence for security teams putting AI to work. New kits, updates, and
+> **From Secure Prompt** — field intelligence for the AI threat frontier. New kits, updates, and
 > the paid RFI Workbench land here first: **https://newsletter.secureprompt.io**
 
 ## Who it is for

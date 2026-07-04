@@ -26,4 +26,4 @@ is simply the next step up when the stakes and the audience change.
 
 **Learn more, subscribe, or get this built for your team:** [newsletter.secureprompt.io](https://newsletter.secureprompt.io)
 
-_Running a team that briefs threats every week? Reply to any Secure Prompt issue about a custom workspace built around your workflow._
+_Running a team that briefs threats every week? Reply to any Secure Prompt issue to ask about a custom workspace built around your workflow._

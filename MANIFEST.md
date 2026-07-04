@@ -11,6 +11,7 @@ Everything in this package, in plain language. (Machine-readable version: [`work
 
 ## Reference
 - `UPGRADE-PATH.md` — where to go when a report becomes a leadership question.
+- `LICENSE.md` — terms: free to use, share, and adapt internally; don't resell; keep attribution.
 - `CREDITS.md` — attribution, methodology, sample provenance.
 - `CHANGELOG.md` / `VERSION` — what changed; which version you have.
 - `MANIFEST.md` — this file.

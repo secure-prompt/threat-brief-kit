@@ -28,8 +28,9 @@ threat intelligence, and none of it derives from any organization's private data
 
 ## License
 
-The kit's text and templates are provided for use by the purchaser/recipient in their own work. Redistribution
-terms are set by Secure Prompt. The methodology inspiration is MIT-licensed as noted above.
+See [`LICENSE.md`](LICENSE.md) for full terms: the kit's text and templates are free to use, share, and
+adapt for internal use; not for resale; keep the Secure Prompt attribution. The methodology inspiration is
+MIT-licensed as noted above.
 
 ## No affiliation
 

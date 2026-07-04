@@ -1,6 +1,6 @@
 package_name: "Threat Brief Kit"
 package_id: "threat-brief-kit"
-package_version: "v0.2.1"
+package_version: "v0.2.2"
 schema_version: "workbench-schema-v1"
 release_date: "2026-07-04"
 product_line: "Secure Prompt Workbench"

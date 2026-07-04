@@ -3,6 +3,15 @@
 All notable changes to this product. Entries are grouped by type. Versioning: patch = copy/sample fixes,
 minor = non-breaking additions, major = renamed stages / changed contracts / changed outputs.
 
+## v0.2.2 — 2026-07-04
+
+Polish nits from a second external review (no functional change).
+
+- `MANIFEST.md` now lists `LICENSE.md` (it was a required file the plain-language manifest omitted).
+- `UPGRADE-PATH.md` fixed the garbled high-intent CTA ("…issue to ask about a custom workspace…").
+- `CREDITS.md` License section now links to `LICENSE.md` explicitly.
+- Standardized the brand tagline to "field intelligence for the AI threat frontier" (README header + footer now match).
+
 ## v0.2.1 — 2026-07-04
 
 Launch-readiness pass from an external review of the packaged kit.
